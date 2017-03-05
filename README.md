@@ -28,7 +28,7 @@ This is just a hand curated list of Product Management Links that I find useful.
 * [Mixpanel | The Signal](https://blog.mixpanel.com/)
 * [Inside Intercom](https://blog.intercom.com/)
 
-#Podcasts
+## Podcasts
 * [Inside Intercom Podcast](https://blog.intercom.com/category/podcast/)
 * [This is Product Management](http://www.thisisproductmanagement.com/)
 * [ProductPeople](http://www.productpeople.tv/)

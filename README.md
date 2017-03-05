@@ -11,7 +11,11 @@ This is just a hand curated list of Product Management Links that I find useful.
 * [What are some great examples of product requirement documents and functional specs?](https://www.quora.com/What-are-some-great-examples-of-product-requirement-documents-and-functional-specs)
 
 ## Methodologies
-[Conversational Development](http://conversationaldevelopment.com/)
+* [Agile Manifesto](http://agilemanifesto.org/)
+* [Scrum](https://en.wikipedia.org/wiki/Scrum_(software_development))
+* [Kanban](https://en.wikipedia.org/wiki/Kanban_(development))
+* [Conversational Development](http://conversationaldevelopment.com/)
+
 
 ## Software
 * [Mixpanel](https://mixpanel.com)
@@ -19,7 +23,7 @@ This is just a hand curated list of Product Management Links that I find useful.
 * [Kissmetrics](https://www.kissmetrics.com/)
 * [Aha](http://www.aha.io/)
 
-#Blogs
+## Blogs
 * [Kissmetrics Blog](https://blog.kissmetrics.com/)
 * [Mixpanel | The Signal](https://blog.mixpanel.com/)
 * [Inside Intercom](https://blog.intercom.com/)
@@ -29,8 +33,9 @@ This is just a hand curated list of Product Management Links that I find useful.
 * [This is Product Management](http://www.thisisproductmanagement.com/)
 * [ProductPeople](http://www.productpeople.tv/)
 
-#Newsletters
+## Newsletters
 
 ## Worth reading
 [GitLab Handbook](https://getpocket.com/a/read/1336827620)
 
+## Books

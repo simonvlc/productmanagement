@@ -23,6 +23,7 @@ This is just a hand curated list of Product Management Links that I find useful.
 * [Your Startup’s 10 Most Important Metrics](http://tomtunguz.com/your-startups-10-most-important-metrics/)
 * [How to Use a Single Metric to Run Your Startup](https://blog.kissmetrics.com/single-startup-metric/)
 * [You’re Measuring Daily Active Users Wrong](https://amplitude.com/blog/2016/01/14/measuring-active-users/)
+* [Startup Metrics for Pirates: AARRR](https://es.slideshare.net/dmc500hats/startup-metrics-for-pirates-long-version)
 
 ## Priorization
 * [This Product Prioritization System Nabbed Pandora 70 Million Monthly Users with Just 40 Engineers](http://firstround.com/review/This-Product-Prioritization-System-Nabbed-Pandora-More-Than-70-Million-Active-Monthly-Users-with-Just-40-Engineers/)
@@ -80,6 +81,7 @@ This is just a hand curated list of Product Management Links that I find useful.
 * [Silicon Valley Product Group](http://svpg.com/articles/)
 * [ProductManagerHQ](https://www.productmanagerhq.com/)
 * [Product Coalition](https://productcoalition.com/)
+* [Occam's Razor](https://www.kaushik.net/avinash/)
 
 ## Podcasts
 * [Inside Intercom Podcast](https://blog.intercom.com/category/podcast/)
@@ -91,17 +93,16 @@ This is just a hand curated list of Product Management Links that I find useful.
 
 ## Worth reading
 * [GitLab Handbook](https://getpocket.com/a/read/1336827620)
-
-## Other
 * [What's the difference between a Project Manager and a Product Manager?](https://www.quora.com/Whats-the-difference-between-a-Project-Manager-and-a-Product-Manager)
-* [What you should be looking for in a product person](https://medium.com/swlh/what-you-should-be-looking-for-in-a-product-person-ee40e39a7301)
 
 ## Books
 * [Peopleware](https://www.amazon.com/Peopleware-Productive-Projects-Teams-Second/dp/0932633439)
 * [User Stories Applied: For Agile Software Development](https://www.amazon.com/User-Stories-Applied-Software-Development/dp/0321205685/ref=sr_1_1?s=books&ie=UTF8&qid=1488746117&sr=1-1&keywords=user+stories+applied)
+* [Webanalytics 2.0](http://www.webanalytics20.com/)
 
 ## Hiring
 * [TradeGecko’s Head of Growth’s interview tips to hiring a good product manager](https://www.techinasia.com/tradegeckos-head-growths-interview-tips-hiring-good-product-manager)
+* [What you should be looking for in a product person](https://medium.com/swlh/what-you-should-be-looking-for-in-a-product-person-ee40e39a7301)
 
 ## Spanish
 * [A nivel de producto](http://externalidades.net/2017/02/a-nivel-de-product-management/)
